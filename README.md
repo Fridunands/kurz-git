@@ -1,2 +1,2 @@
 # kurz-git
-Das ist ein Entwicklung-Git
+Das ist eine Entwicklung-Git
